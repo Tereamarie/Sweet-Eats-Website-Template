@@ -188,14 +188,14 @@
     text-decoration: none;
     margin-bottom: 20px;
      /*======= create a background property. Set the value to #F87B99 */
-    background:#cd6090;
+    background:#c1bfc0;
     box-shadow:10px 10px 5px  grey;
   }
   
   
   footer nav a:first-child {
     margin-left: 0;
-    background: #cd6090;
+    background: #e5e2e3;
   }
   
   /*======= Create a hover state for the anchor tag in the footer nav to have the following styles:
